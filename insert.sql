@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD COLUMN `jail` longtext DEFAULT '{"time":0,"position":0}';
